@@ -1,0 +1,108 @@
+RASPBERRY PI
+
+Login as: pi
+
+Password: 1234
+
+Password de las cuentas: ninguno, simplemente pulsar enter
+
+
+Raspi1:
+
+$ geth account list
+
+Account: 2d6005c087ed43e85f133db3ba0ebaa5845fa073
+
+
+$ hostname -I
+
+IP: 
+
+wlan: 192.168.1.16  
+
+eth0: 169.254.18.239
+
+
+MAC: b8:27:eb:ec:4d:45
+
+
+enode://2c773c0c163567c9fc70042c74cf5be8825f16b30acbb8a4095abeef12726ff98c806fba41879cef3133fc10b8d766e8eae312eb38ae8ae6fdcc2a57ae2b5239@169.254.18.239:30303
+
+
+
+
+Raspi2:
+
+Account: 8efa7f8ab23a0a7fefcf453fd7fe2fca472994e6
+
+IP: 
+
+wlan: 192.168.1.18 
+
+eth0: 169.254.23.143
+
+
+MAC: b8:27:eb:8c:7f:2d
+
+
+enode://e8087674a396156d1968e9a4ce1513da4db6deb422730c9751bd5db44ca6db933b11efab48a3ee8b141e916150ffc18c18d0af5c0ca6e61928f47f4a256adf99@169.254.23.143:30303
+
+
+
+
+Raspi3:
+
+Account: 79f026118afa83b3fea0a23fdcc0e293a33bab93
+
+IP: 
+
+wlan: 192.168.1.22 
+
+eth0: 169.254.124.255
+
+
+MAC: b8:27:eb:08:3a:a5
+
+
+enode://213a1c0aba999be139e45960fc453f569b335a31e1e07c4381455836699f4f9553a05145f8bcc1bb8fa1d83a63e82d3dd3721afff68fdadc05bc89cb2890f9e6@169.254.124.255:30303
+
+
+
+
+Raspi4:
+
+Account: 34ec9c281c173a6a6853681253f7bcfd1b294677
+
+IP: 
+
+wlan: 192.168.1.23 
+
+eth0: 169.254.115.106
+
+
+MAC: b8:27:eb:9f:8c:3c
+
+
+enode://c84ac33b7eb062c57759281c3dca2be3d26b5a36cdf57b710d582802e9c9fc5c9f3c37380bd79e5984ed86b2c635030b52052efc31f379827917a50a9000e74c@169.254.115.106:30303
+
+
+
+PC:
+
+datadir: "C:\ETH\raspichain"
+
+genesis: "C:\ETH\configs\raspichain.json"
+
+Account: b287b2bda0f9a93e0d08c09f03e1f903eebf9512
+
+IP: 
+
+wlan: 192.168.1.20 
+
+eth0: 169.254.173.233
+
+
+MAC: f4:6d:04:79:31:36
+
+
+enode://f7eceff5b191882a1ae283d8870034562d1903b3dd23d193921b4d357cdeffc890060b92f7ce31e440a3efc954e9375d82e8255ca518e4d1294b245cf7498eed@169.254.173.233:30303
